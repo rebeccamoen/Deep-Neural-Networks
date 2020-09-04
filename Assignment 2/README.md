@@ -4,6 +4,8 @@ In this task you are suppose to implement 2 types of mulilayer Perceptrons:
 	1. Using only Python.
 	2. Using a high level library 
 
+###
+
 	• Download the Ecoli dataset: https://archive.ics.uci.edu/ml/datasets/Ecoli 
 	• Predict the two classes: cp and im (remove the rest of the dataset). 
 	• Make the necessary adjustments to the data. 
