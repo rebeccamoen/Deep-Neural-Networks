@@ -13,10 +13,3 @@ IKT450 - Deep Neural Networks (2020)
 	9. Recurrent Neural Networks and Natural Language Processing
 	10. Generative Adversarial Networks
 	11. Transformers
-
-#### Small assignments
-	• Contributes 25% of the grade. 
-	• There will be one assignment per lecture. 
-	• As part of the portfolio, write a one page report per assignment. 
-	• You can be in groups of up to 3. 
-	• Handin: One page report to be delivered at the end of the semester.
