@@ -24,3 +24,6 @@ IKT450 - Deep Neural Networks (2020)
 	7. Object Detection
 	8. Recurrent Neural Networks (RNN)
 	9. Deep Autoencoders
+
+#### Project
+	• Time Series-based forecasting of sales
